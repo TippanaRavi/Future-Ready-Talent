@@ -1,12 +1,9 @@
 # Future-Ready-Talent
-https://ashy-forest-0978d2910.azurestaticapps.net/index.html
-
-
-
-
-
 
 This is an E-Commerce Page facilitates the user to shop clothes.
+
+Link: https://ashy-forest-0978d2910.azurestaticapps.net/index.html
+
 
 Web Technologies used: HTML, CSS, JS, Bootstrap
 
